@@ -4,7 +4,7 @@ Welcome to the **Random Password Generator** project! This simple yet powerful t
 
 ## 🛠️ Features
 
-- **Customizable Length**: Input the desired password length, and get a unique password every time! 🔢
+- **Customizable Length**: Input the desired password length, and get a unique password every time, providing security🔢
 - **Security**: Create strong and unpredictable passwords for enhanced account safety. 🔒
 
 ## 📦 Requirements
