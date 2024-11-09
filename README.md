@@ -10,3 +10,13 @@ Welcome to the **Random Password Generator** project! This simple yet powerful t
 ## 📦 Requirements
 Python 3.x
 No external libraries are required, just the string and random modules.
+
+## 🐳 Deploying Docker Image
+
+To deploy my project on your machine, you must use the following commands:
+
+```bash
+  docker pull keyth5/project2:v1
+  
+  docker run -d -p 5000:5000 keyth5/project2:v1
+```
