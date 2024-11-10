@@ -24,4 +24,4 @@ You can also visit the repository in Docker Hub: [🔗 here](https://hub.docker.
 
 ## 🌐 Live Demo
 
-Visit the live preview to explore the project in real: [🔗🌍 clik](https://project2-keyth-production.up.railway.app/)
+Visit the live preview to explore the project in real time: [🔗🌍 clik](https://project2-keyth-production.up.railway.app/)
